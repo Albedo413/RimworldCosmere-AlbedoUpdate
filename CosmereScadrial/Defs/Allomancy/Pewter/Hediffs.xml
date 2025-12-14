@@ -6,8 +6,7 @@
         <description>Empowered strength, endurance, and resilience from burning Pewter.</description>
         <stages>
             <li>
-                <naturalHealingFactor>0.5</naturalHealingFactor>
-                <regeneration>5</regeneration>
+                <naturalHealingFactor>2</naturalHealingFactor>
                 <totalBleedFactor>-0.5</totalBleedFactor> <!-- Stops 50% of blood loss -->
                 <painFactor>-0.5</painFactor>
                 <multiplyStatChangesBySeverity>true</multiplyStatChangesBySeverity>
